@@ -1,0 +1,28 @@
+_repo: Eteenp-in-Kertomus-merelt-_34980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2011-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34980'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+title: Eteenpäin! Kertomus mereltä
+url: http://www.gutenberg.org/ebooks/34980
